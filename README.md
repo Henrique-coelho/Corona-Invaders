@@ -5,8 +5,8 @@ Participantes:
  - Henrique Coelho Mendes
 
 Instruçoes:
- - Acesse via terminal a pasta CoronaInvaders, (cd ....../TP1_RodrigoLopes_HenriqueCoelho/CoronaInvaders)
- - execute o programa com, gcc corona_invaders.c -lm -lglut -lGL -lGLU -lSOIL
+ - Acesse via terminal a pasta CoronaInvaders
+ - execute o programa com gcc corona_invaders.c -lm -lglut -lGL -lGLU -lSOIL
 
 Instruções de Jogo:
 - Setas para andar e se locomover no menu
@@ -25,5 +25,5 @@ Implementações:
  - Sistema de pontuação, demonstrado no canto superior direito da tela
  - Sistem de pontuação máxima, o "highscore" é salvo toda vez que se joga o jogo
  - Sistema de armazenamento de dados após o jogo ser fechado, criando um bloco de notas ("data.txt") que armazena a maior pontuação e níveis derrotados
- - Sritesheets personalizada feitas por nó mesmos (com exceção do background)
+ - Sritesheets personalizada feitas pelos autores (com exceção do background)
 
