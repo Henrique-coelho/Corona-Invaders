@@ -2,8 +2,8 @@
 	O código referente a tiros refere aos tiros inimigo, tiros do jogador, e powerups
 */
 
-// Espescifica a dimensão do tiro de acordo com sua variedade
-void espescificarTiro(int index, int func){
+// Especifica a dimensão do tiro de acordo com sua variedade
+void especificarTiro(int index, int func){
 	if (func == 0){ // Tiro inativo
 		tiros[index].local.altura = 0;
 		tiros[index].local.largura = 0;
